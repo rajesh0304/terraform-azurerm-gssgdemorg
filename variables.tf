@@ -5,7 +5,7 @@ variable "resource_group_type" {
 
 }
 
-variable "sequene_number" {
+variable "sequence_number" {
   description = "The sequence number of the resource group."
   type        = string
   default     = "01"
